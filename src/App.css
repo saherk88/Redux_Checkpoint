@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+.counter{
+  border-top-style: groove;
+  border-bottom: groove;
+  width: 120px;
+  display: inline-flex;
+  justify-content: center;
+
+
+}
+
+.btn{
+  background-color: rgb(181, 197, 197); 
+  outline-color: rgba(0, 185, 31, 0.349);
+  height: 30px;
+  width: 30px
+}
+/* span.number{
+  width: 300px;
+
+} */
+hr{
+  width: 200px;
+}
